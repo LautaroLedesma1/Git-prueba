@@ -26,10 +26,10 @@ Aplicando _Cursiva_ y **Negritas**
 Enlaces:
 [Youtube](https://youtube.com)
 
-[Aprendiendo _Markdown_](#curso-de-git--github)
-
 ![Imagen de kanekito](https://animeargentina.net/wp-content/uploads/2021/12/kaneki-ken-tranka-1024x579.jpg)
-(si simplemete le saco el signo de ! que esta delante del "imagen de kanekito" aparece un enlace que me lleva a una pestaña del navegador con la foto)
+(si simplemete le saco el signo de ! que esta delante del "imagen de kanekito" aparece un enlace que me lleva a una pestaña del navegador con la foto ejemplo: \[Imagen de kanekito]\(direcion de la ft) )
+
+[Aprendiendo _Markdown_](#curso-de-git--github)
 
 ---
 
